@@ -1,5 +1,5 @@
 import frida, subprocess ,time
-import sys
+
 BOUNTY_DELAY   = 0.3
 GIFT_TABS      = [1, 2, 3, 4, 5]
 CHEST_META_IDS = []

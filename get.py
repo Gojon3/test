@@ -1,4 +1,4 @@
-import frida, subprocess
+import frida, subprocess , time
 
 BOUNTY_DELAY   = 0.3
 GIFT_TABS      = [1, 2, 3, 4, 5]
